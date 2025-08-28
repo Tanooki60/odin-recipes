@@ -1,0 +1,1 @@
+This is just the first created project for The Odin Project.
